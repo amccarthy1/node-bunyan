@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git://github.com/amccarthy1/node-bunyan.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "engines": [
     "node >=0.10.0"
   ],
